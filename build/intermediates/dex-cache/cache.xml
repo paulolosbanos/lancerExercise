@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\exploded-aar\FLTest\pull-to-refresh\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c303b360c02d740f813e2b61e58d5dad1e78b6f6">
+        <dex dex="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\pre-dexed\debug\classes-e2789ece272307697ee24ed0acc8d5e8fc6f2afa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\libs\json-lib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="136743e0d12df4e785e62b48618cee169b2ae546">
+        <dex dex="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\pre-dexed\debug\json-lib-62046aa3d194ee8ebb5747fb04d699faef2be968.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android 18\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-53c80532359afd3bc0d7df3da9ee4cc86b22c276.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android 18\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.7.2\112366d8158749e25532ebce162232c6e0fb20a5\gson-1.7.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="112366d8158749e25532ebce162232c6e0fb20a5">
+        <dex dex="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\pre-dexed\debug\gson-1.7.2-bb1966684186e91438676925a21427c851745a93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d438cef79a27d2bed6c393b7052d6a1700d069a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\pre-dexed\debug\classes-a18934925e49cb2e53ca0111daa1ca87f7152510.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Android 18\Documents\GitHub\GlennFLTestJune\FLTest\app\build\intermediates\pre-dexed\debug\classes-a213d7cfe1ed38e2874f1241f633e36524214785.jar" />
+    </item>
+
+</items>
